@@ -20,7 +20,7 @@ body {
 }
 
 .hero {
-    background-image: url(assets/images/earphone1.jpg);
+    background-image: url(../assets/images/earphone1.jpg);
     min-height: 100vh;
     width: 100%;
     background-size: cover;
